@@ -26,7 +26,7 @@ public class Ganhe_mais {
                 case 1:
                     System.out.println("Você selecionou a opção 1 - Apostar de 0 á 100!");
                     System.out.println("Digite um numero de 0 a 100:  ");
-                    int numeroAleatorio = 1 random.nextInt(96);
+                    int numeroAleatorio = random.nextInt(96);
                     NumeroAposta = scanner.nextInt();
                     if (NumeroAposta < 0 || NumeroAposta > 100){
                         System.out.println("Aposta Invalida. \n");
