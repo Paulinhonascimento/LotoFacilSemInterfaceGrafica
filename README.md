@@ -1,4 +1,4 @@
-# Loto Fácil
+# Ganhe Mais (Loto facil)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Paulinhonascimento/LotoFacilSemInterfaceGrafica/blob/main/LICENSE) 
 
 # Sobre o projeto
